@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Satoshi Nakamoto.
-- 👀 I’m interested in Bitcoin and Web3.
-- 🌱 I’m currently learning Computer Science now.
-- 💞️ I’m now looking to create the next cypto coin which can be better than Bitcoin. 
-- 📫 Today is a bad day for ETH. It is down five percent today.
-- ⚡ Fun fact: I am the same person as CZ. 
+- Hi, I’m Satoshi Nakamoto.
+- I’m interested in Bitcoin and Web3.
+- I’m currently learning Computer Science now.
+- I’m now looking to create the next cypto coin which can be better than Bitcoin. 
+- Today is a bad day for ETH. It is down five percent today.
+- A shocking fact: I am the same person as CZ. 
 - Here is a quote about cypto coins:
 
 > I’m better with code than with words though.
